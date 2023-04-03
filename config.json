@@ -1,0 +1,9 @@
+{
+    "database": 
+        {
+            "target": "192.168.180.17:3306",
+            "dbuser": "student",
+            "dbpass": "admin01",
+            "dbname": "data"
+        }  
+  }
